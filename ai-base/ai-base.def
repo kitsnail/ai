@@ -1,0 +1,5 @@
+Bootstrap: library
+From: ubuntu:18.04
+%labels
+    Author ai@paratera.com
+    Version v0.0.1
